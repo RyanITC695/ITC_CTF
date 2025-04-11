@@ -1,0 +1,12 @@
+Welcome to the ITC CTF, Maze of Obfuscation.
+
+	Try to navigate your way through the logs and find the corresponding keys/encrypted messages 
+	and files that are needed to advance! 
+	
+	You may need to use ideas from the Linux, Encryption/Decryption and other units! 
+	Category: Linux, Encryption, Steg, Other.
+
+	Note:
+	You may want to copy paste this folder into WSL or use some similar Linux associated structure before beginning.
+
+	Good Luck! 

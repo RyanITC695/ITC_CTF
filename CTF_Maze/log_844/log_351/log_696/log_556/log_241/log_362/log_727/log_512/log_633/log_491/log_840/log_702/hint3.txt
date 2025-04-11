@@ -1,0 +1,2 @@
+	The first key is in a hidden place, the second is as well. Use them to decrypt the double encrpyted message… in the right order.
+	The Vigenère cipher uses a certain Variant Beaufort cipher.  
